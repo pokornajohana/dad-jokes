@@ -2,7 +2,6 @@ import React from 'react';
 import { Joke } from '../Joke/joke';
 import { jokes } from '../jokes';
 
-// 14.úloha
 export const App = () => {
   return (
     <div className="container">
